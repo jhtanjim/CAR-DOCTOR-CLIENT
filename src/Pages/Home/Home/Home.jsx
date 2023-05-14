@@ -5,7 +5,7 @@ import Team from "../Team/Team";
 
 const Home = () => {
     return (
-        <div>
+        <div className="">
             <Banner></Banner>
             <About></About>
             <Services></Services>
